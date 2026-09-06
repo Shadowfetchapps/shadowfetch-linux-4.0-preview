@@ -1,0 +1,28 @@
+[
+  {
+    "format": "landscape",
+    "status": "PASS",
+    "sha256": "d4fc0cbae8a8cb9ede7094ea4a3d37afaade65a7c455b9472ead2b971672ea9f",
+    "bytes": 11418777,
+    "checks": [
+      "Full decoded video and audio",
+      "No black gap lasting 0.1 second",
+      "No audio gap lasting 3 seconds"
+    ],
+    "visual_review": "Six scene contact sheet reviewed; authentic desktop captures and prominent Grok Bot scene; account-access limitation displayed",
+    "voice": "User approved gentle female narration"
+  },
+  {
+    "format": "portrait",
+    "status": "PASS",
+    "sha256": "71178259db0965c2dd289a2472c753d2ca5bcc353fb66d6cc91fe49c7270c9ce",
+    "bytes": 8255804,
+    "checks": [
+      "Full decoded video and audio",
+      "No black gap lasting 0.1 second",
+      "No audio gap lasting 3 seconds"
+    ],
+    "visual_review": "Six scene contact sheet reviewed; authentic desktop captures and prominent Grok Bot scene; account-access limitation displayed",
+    "voice": "User approved gentle female narration"
+  }
+]

@@ -1,0 +1,8 @@
+PRE-RELEASE PRESS PACKET
+Prepared September 6, 2026. Hold for final release approval.
+
+Verified: signed candidate8 ISO; BIOS Fire and offline UEFI Ice installs; installed package payloads; offline mission-engine checks; Ice crash-recovery checks; native Grok sign-in screen; native offline media accept/restore; reviewed 45-minute stress PASS (134 container cycles, 77 media cycles, 230 probes).
+Pending: authenticated cloud missions, upgrade/rollback acceptance, public publication and video render.
+Screenshots here are genuine candidate8 desktop captures. No Retry/error screenshot is used as a hero. The packet includes both the startup choice and native Grok sign-in screen, without claiming completed cloud work.
+
+NEW RELEASE HOLD: candidate8 upgrade boots and passes installed audit, but its Buzz retirement helper fails on Podman .Id. Source corrected to .ID; live corrected-helper preservation test passed. Rebuilt package/image validation required. Candidate8 stress PASS remains historical evidence for that exact image.

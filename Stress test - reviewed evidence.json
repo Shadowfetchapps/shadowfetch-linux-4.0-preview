@@ -1,0 +1,50 @@
+{
+  "status": "STRESS_EVIDENCE_REVIEW_PASS",
+  "archive_sha256": "990b3149467afd602db6bd5b9907be0269f608ba5a773ad6c08ca2c84437479d",
+  "result": {
+    "release": "4.0.0",
+    "qa_profile": "production-default900s-v2",
+    "boot_id": "38995c12-e1f2-4ec9-8d6e-5567e9bd03ea",
+    "start": "2026-09-06T11:59:01-04:00",
+    "end": "2026-09-06T12:44:07-04:00",
+    "required_seconds": 2700,
+    "elapsed_seconds": 2706,
+    "load_elapsed_seconds": 2701,
+    "post_load_drain_seconds": 3,
+    "mission_outer_observation_seconds": 3855,
+    "container_outer_observation_seconds": 3120,
+    "container_image_id": "b66e0ce64844f5c6435b0c4bfd965558199ab0f53270846861c979cb1ac29365",
+    "cached_image_resolution_rc": 0,
+    "container_image_pull_attempted": false,
+    "workbench_plans_rc": 0,
+    "stress_ng_rc": 0,
+    "container_loop_rc": 0,
+    "container_cycles": 134,
+    "mission_loop_rc": 0,
+    "probe_loop_rc": 0,
+    "service_classifier_schema": 1,
+    "service_classifier_rc": 0,
+    "journal_window_end_epoch": 1788713047,
+    "journal_window_end_utc": "2026-09-06 16:44:07.554611 UTC",
+    "cancelled": 0,
+    "installed_release": "4.0.0",
+    "development_smoke": 0,
+    "probe_cycles": 230,
+    "failure_count": 0,
+    "status": "PASS"
+  },
+  "media_cycles": 77,
+  "media_model_inference": false,
+  "container_cycles": 134,
+  "probe_cycles": 230,
+  "max_probe_seconds": 3.345,
+  "health_warnings": [
+    {
+      "name": "CPU load",
+      "status": "warn",
+      "summary": "1-minute load 11.33 across 4 threads",
+      "action": ""
+    }
+  ],
+  "limits": "Tests exercise containers and deterministic offline media, not authenticated cloud inference. CPU load warning immediately after stress is retained. This is not full release acceptance."
+}

@@ -1,0 +1,24 @@
+DRAFT — hold for final ISO, authenticated-mission validation and public download verification.
+Not ready to send.
+
+Subject: Shadowfetch Linux 4.0 brings Mission Control and featured Grok Bot setup
+
+Hello,
+
+We’re introducing Shadowfetch Linux 4.0, a KDE Plasma desktop built around visible, scoped agent work. Its new Mission Control lets you start a task, see the files and network access it can use, inspect the result, and decide whether to keep or undo the changes.
+
+The release includes three practical workflows: code changes with independently run tests, source reports with checked citation ranges, and media exports verified by a complete decode. Tasks keep their state across restarts. A stopped or interrupted task remains visible for inspection; retries check the recorded files before resuming work.
+
+For the first time in Shadowfetch Linux, Grok Bot is an optional choice at startup. It has a prominent first-boot setup card, its own Control Center page and a desktop entry. Shadowfetch installs the official Linux application from its vendor and checks the pinned package. The current candidate opens the official native sign-in screen, captured in the enclosed screenshots. Account sign-in and authenticated cloud work remain unverified. Grok Bot requires its provider’s online service and an eligible account and plan.
+
+This release focuses on Grok Bot and the independent coding agents. Code and source-report missions support a dedicated Codex account login or an API key, with explicit network approval. The dedicated login keeps ordinary Codex history and configuration outside the mission environment. Local AI is deferred. Fire supports connected workflows; Ice keeps project workspaces and deterministic media tools available without an external connection. Mission workloads use Firebreak’s private home, scoped project access and recovery checkpoints, with CPU, memory and process limits.
+
+Existing Shadowfetch users retain Workbench, Fire and Ice desktop choices, and Phoenix recovery. Project Undo protects newer manual edits; system rollback depends on the supported Btrfs installation layout. Reports and code still need human review.
+
+The download page includes the signed image, verification instructions, release evidence and actual desktop screenshots, including the native Grok Bot application. We’d welcome an independent review of the task workflow, installation experience and recovery behavior.
+
+Download and release details: https://www.shadowfetchlinux.org/download
+Source: https://github.com/ShadowfetchLinux/shadowfetch-linux
+Screenshots: https://www.shadowfetchlinux.org/screenshots
+
+The Shadowfetch team

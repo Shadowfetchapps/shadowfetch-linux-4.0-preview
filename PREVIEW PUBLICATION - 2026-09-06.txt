@@ -1,0 +1,16 @@
+PREVIEW PUBLICATION — 2026-09-06
+
+This is a public 4.0 preview archive, not a stable 4.0 release.
+
+Published:
+- GitHub packet repo and v4.0.0-preview pre-release
+- archive.org item shadowfetch-linux-4-0-0-preview
+- Website /preview page, review films, and archive/GitHub links
+
+Not published:
+- Stable main merge
+- v4.0.0 tag
+- Replacement of the 3.5.0 download/APT feed
+- Claim that Codex cloud missions or final-image acceptance passed
+
+Stable download remains 3.5.0. See README.md and PAUSED - CURRENT RELEASE STATUS.txt.

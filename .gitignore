@@ -1,0 +1,9 @@
+.DS_Store
+**/.DS_Store
+*.zip
+.env
+.env.*
+**/*.env
+API Keys/
+secrets/
+Shadowfetch Linux 4.0 Press Packet 2/

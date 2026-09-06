@@ -1,0 +1,26 @@
+PAUSED AT USER REQUEST — 2026-09-06
+
+Stable Shadowfetch Linux 4.0 is NOT released. Do not distribute this packet as a completed stable launch.
+
+Ready: public 4.0 website preview; GitHub release/4.0.0 branch at c551dfcd0870dc3a00954dee2201a50bb36dadc3; C11 ISO built; landscape and portrait 30-second Blender review videos with approved gentle female narration; draft press brief and screenshots.
+Stable download remains 3.5.0. Stable main/tag/release publication is pending.
+
+Blocker: authenticated Codex code execution fails because its code-mode host crashes (SIGTRAP) inside the sandbox. Login succeeded. No new login or API key is currently needed. Real file/test checks correctly rejected the unmodified result. Report test did not run.
+Disabling code-mode host is not a fix: it fails closed. The temporary per-command override was removed from the Mac source and the C8 Fire guest; the original C11 guest module was restored and hashed: 522ad364c859a831adbeb99d81d9ce4b5066757ddd0d494b2720993bab810e82. Dedicated account configuration was already restored.
+
+Next technical step: investigate code-mode host startup offline, especially virtual address reservation versus Firebreak RLIMIT_AS. This is a hypothesis, not a confirmed cause. Preserve cgroup resident-memory/process limits. Do not spend more cloud calls or rebuild before an actual fix is established.
+
+Preserved failed tests in candidate8-fire:
+/home/sfqa/qa-candidate11-code
+/home/sfqa/qa-candidate11-code-nohost
+/home/sfqa/qa-code-per-command-nohost
+All terminal failures; no retries are being started.
+
+Fresh C11 Fire and Ice installers remain open (Calamares PIDs 2590 and 2578); no rsync process appeared in the pause check. Completion and installed boot are NOT verified. Leave VM state intact; inspect native UI on resume before shutdown/reboot. Ice must remain offline. Previous C8 45-minute stress passed, but is not proof for the final C11 image. Grok vendor UI also showed a later connection/Retry error; authenticated vendor operation remains unverified.
+
+Authoritative Linux source: /home/rtx5060ti/projects/shadowfetch-4.0.0
+C11 ISO SHA256: a5391737ab4aaf65e20bbfd0313bd3854114245c4df870ea64bcc362add53bda
+Website preview Worker version: 118cbc1b-07ec-4c4a-94ae-6c3af32e0e70
+Full evidence and earlier checkpoints: work/release-4.0.0/RESUMED-STATUS.md
+
+Desktop assets were moved into /Users/m4/Desktop/New Shadowfetch Linux. Existing ZIPs are historical snapshots; this status file supersedes their older status notes. No stable release or social/email distribution has been performed.

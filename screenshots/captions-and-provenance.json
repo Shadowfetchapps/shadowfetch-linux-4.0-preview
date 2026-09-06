@@ -1,0 +1,30 @@
+[
+  {
+    "file": "screenshots/featured-grok-startup.png",
+    "title": "Featured Grok Bot at startup",
+    "caption": "Actual installed Ice welcome screen. Optional vendor app; account and internet required.",
+    "source": "/Users/m4/Documents/Codex/2026-09-04/fin-2/work/ui-qa/candidate8-ice/welcome-agents.png",
+    "sha256": "d5fe5f7fb8db75690f9d63e8bcdbb75c72a7fe67b3f1ebcd680d44b0578c4e7b"
+  },
+  {
+    "file": "screenshots/fire-setup.png",
+    "title": "Fire: connected setup",
+    "caption": "Actual installed BIOS Fire desktop and first-run choices.",
+    "source": "/Users/m4/Documents/Codex/2026-09-04/fin-2/work/ui-qa/candidate8-fire/installed-welcome.png",
+    "sha256": "452b88943bdc68ed14077190e83ef445c3617fc954ce31e3469c43b3e85d8cf8"
+  },
+  {
+    "file": "screenshots/ice-setup.png",
+    "title": "Ice: offline setup",
+    "caption": "Actual installed UEFI Ice desktop. Local model installation and inference are deferred.",
+    "source": "/Users/m4/Documents/Codex/2026-09-04/fin-2/work/ui-qa/candidate8-ice/installed-welcome.png",
+    "sha256": "cac8390aed8db3ba3d3a7e8d845bb05b3ac63366cf849ce45414714da359912b"
+  },
+  {
+    "file": "screenshots/installation-complete.png",
+    "title": "Guided installation complete",
+    "caption": "Native Calamares completion on the verified candidate8 ISO.",
+    "source": "/Users/m4/Documents/Codex/2026-09-04/fin-2/work/ui-qa/candidate8-fire/installation-latest.png",
+    "sha256": "ed6af52c11dd4bb142baa78cc8d15ef04017e91eb9f961b414feaf79790fa767"
+  }
+]

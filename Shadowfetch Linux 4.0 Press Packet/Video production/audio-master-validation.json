@@ -1,0 +1,13 @@
+{
+  "duration_seconds": 30,
+  "channels": 2,
+  "sample_rate": 48000,
+  "bits": 24,
+  "sha256": "0aaa863fd0b6ac4f5e122cf89484104e4754fc72061d221df4843fad869b05e4",
+  "integrated_lufs": -17.26,
+  "true_peak_dbtp": -1.5,
+  "loudness_range_lu": 6.1,
+  "voice_approved": true,
+  "complete_mix_listening_review": "pending",
+  "composition": "Original synthesized stereo score; no third-party music samples."
+}

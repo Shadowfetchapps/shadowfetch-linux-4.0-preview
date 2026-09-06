@@ -1,0 +1,6 @@
+30-second Blender promo exports are ready for release review.
+Landscape: 1920x1080. Portrait: 1080x1920. Both 30 seconds, 24 fps, H.264/AAC.
+Full video/audio decoding, no black gaps >=0.1s, and no audio gaps >=3s: PASS.
+Scene contact sheets reviewed. Packed Blender sources included. Gentle female narration was approved by the user.
+Grok Bot has a prominent eight-second scene using the authentic native sign-in screen, with account/internet requirements displayed. This does not demonstrate authenticated vendor cloud operation.
+Hold public launch until the final distribution release clears its remaining checks. Technical QA results are in final-export-qc.json; these are not a guarantee of social-media reach.

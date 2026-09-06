@@ -1,0 +1,6 @@
+PRE-RELEASE PRESS PACKET
+Prepared September 6, 2026. Hold for final release approval.
+
+Verified: signed candidate8 ISO; BIOS Fire and offline UEFI Ice installs; installed package payloads; offline mission-engine checks; Ice crash-recovery checks.
+Pending: full stress result, authenticated cloud missions, final native Grok application capture, upgrade/rollback acceptance, public publication and video render.
+Screenshots here are genuine candidate8 desktop captures. No Retry/error screenshot is used as a hero. The featured Grok image shows the distro startup choice, not a completed Grok cloud task.
