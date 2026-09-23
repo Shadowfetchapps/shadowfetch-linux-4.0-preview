@@ -18,8 +18,8 @@ Firebreak on that image no longer pins `RLIMIT_AS` to the RSS budget. Fresh BIOS
 | --- | --- |
 | Website / download | https://www.shadowfetchlinux.org/download |
 | 4.0.0 notes | https://www.shadowfetchlinux.org/preview |
-| Distro source | https://github.com/ShadowfetchLinux/shadowfetch-linux/tree/release/4.0.0 |
-| GitHub release | https://github.com/ShadowfetchLinux/shadowfetch-linux/releases/tag/v4.0.0 |
+| Distro source | https://github.com/Shadowfetchapps/shadowfetch-linux/tree/release/4.0.0 |
+| GitHub release | https://github.com/Shadowfetchapps/shadowfetch-linux/releases/tag/v4.0.0 |
 | Archive.org ISO | https://archive.org/details/shadowfetch-linux-4-0-0 |
 | Historical preview packet | https://archive.org/details/shadowfetch-linux-4-0-0-preview |
 | Publisher account | https://archive.org/details/@rcorbin125 |
